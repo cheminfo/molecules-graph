@@ -1,7 +1,7 @@
 {
   "name": "molecules-graph",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "buildRender": "npm run tsc-esm && cheminfo-build --entry lib-esm/render.js --root SVGBoxesTree",
     "dev": "vite",
